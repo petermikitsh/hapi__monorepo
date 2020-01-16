@@ -1,0 +1,12 @@
+{
+  "name": "hapi__iron",
+  "version": "0.0.0",
+  "description": "Placeholder package",
+  "main": "index.js",
+  "repository": "https://github.com/petermikitsh/hapi__monorepo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
